@@ -2,11 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/Users/Simon/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jar="/Users/Simon/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="/Users/Simon/AndroidStudioProjects/AppfoundryExam/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-8b6eeedde616ddbe21df56f354df498311993fcb.jar" />
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Simon/AndroidStudioProjects/AppfoundryExamv2/app/build/intermediates/pre-dexed/debug/gson-2.3.1-496018988e38bef50516b0f7bc6b51aac330eca6.jar" />
+    </item>
+    <item
+        jar="/Users/Simon/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/Simon/AndroidStudioProjects/AppfoundryExamv2/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-81cfaf100327c82cc051b711c675338c3b7bb0c0.jar" />
     </item>
 
 </items>

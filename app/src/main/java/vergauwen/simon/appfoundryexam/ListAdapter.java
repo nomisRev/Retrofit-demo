@@ -6,16 +6,16 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
-
-import butterknife.Bind;
-import butterknife.ButterKnife;
+import java.util.ArrayList;
+import java.util.List;
+import vergauwen.simon.appfoundryexam.model.Datum;
 
 /**
  * Created by Simon on 24/09/15.
  */
 public class ListAdapter extends BaseAdapter {
     private Context mContext;
-    private String[][] data = null;
+    private List<Datum> mData = null;
 
     public ListAdapter(Context c){
         mContext = c;
@@ -35,17 +35,16 @@ public class ListAdapter extends BaseAdapter {
         TextView date_view = (TextView)view.findViewById(R.id.time_and_date_text_view);
         TextView summary_view = (TextView)view.findViewById(R.id.summary_text_view);
 
-        date_view.setText(data[position][0]);
-        summary_view.setText(data[position][1]);
-        temp_view.setText(data[position][2]);
-
+        date_view.setText(mData.get(position).getTime().toString());
+        summary_view.setText(mData.get(position).getSummary());
+        temp_view.setText(mData.get(position).getTemperature().toString());
         return view;
     }
 
     @Override
     public int getCount() {
-        if(data != null){
-            return data.length;
+        if(mData != null){
+            return mData.size();
         }
         return 0;
     }
@@ -57,20 +56,15 @@ public class ListAdapter extends BaseAdapter {
 
     @Override
     public Object getItem(int position) {
-        return null;
+        return mData.get(position);
     }
 
     public void clear(){
-        data = null;
+        mData.clear();
     }
 
-    public void add(String[][] result){
-        data = new String[result.length][result[0].length];
-        for(int i = 0; i < result.length;i++) {
-            for(int j = 0; j < result[0].length;j++) {
-                data[i][j]= result[i][j];
-            }
-        }
+    public void add(List<Datum> data){
+        mData = new ArrayList<Datum>(data);
     }
 
 }
