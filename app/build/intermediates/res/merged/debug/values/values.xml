@@ -199,7 +199,7 @@
     <!-- From: file:/Users/simonvergauwen/Retrofit-demo/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
-    <string name="app_name">Appfoundry Exam</string>
+    <string name="app_name">Retrofit demo</string>
     <string name="hello_world">Hello world!</string>
     <!-- From: file:/Users/simonvergauwen/Retrofit-demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>

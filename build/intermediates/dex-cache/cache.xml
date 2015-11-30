@@ -2,18 +2,53 @@
 <items version="2" >
 
     <item
-        jar="/Users/Simon/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jar="/Users/simonvergauwen/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="/Users/Simon/AndroidStudioProjects/AppfoundryExamv2/app/build/intermediates/pre-dexed/debug/gson-2.3.1-496018988e38bef50516b0f7bc6b51aac330eca6.jar" />
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/simonvergauwen/Retrofit-demo/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-f8291a0f12514baa6a5af60df93e303dc0cf4464.jar" />
     </item>
     <item
-        jar="/Users/Simon/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jar="/Users/simonvergauwen/Retrofit-demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/simonvergauwen/Retrofit-demo/app/build/intermediates/pre-dexed/debug/classes-9a6ca5971489badd7f3392a11e1a7c582403d34d.jar" />
+    </item>
+    <item
+        jar="/Users/simonvergauwen/Retrofit-demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/simonvergauwen/Retrofit-demo/app/build/intermediates/pre-dexed/debug/classes-b594b713324a62c08b210195223ec189359f85f0.jar" />
+    </item>
+    <item
+        jar="/Users/simonvergauwen/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="/Users/Simon/AndroidStudioProjects/AppfoundryExamv2/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-81cfaf100327c82cc051b711c675338c3b7bb0c0.jar" />
+        <dex dex="/Users/simonvergauwen/Retrofit-demo/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-5f5c778ce906f6489c9b1a5952e9b3c8ab87c77e.jar" />
+    </item>
+    <item
+        jar="/Users/simonvergauwen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/simonvergauwen/Retrofit-demo/app/build/intermediates/pre-dexed/debug/gson-2.3.1-de6fc9027c85e91e1cea69b4db95886b56aa1d39.jar" />
+    </item>
+    <item
+        jar="/Users/simonvergauwen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/simonvergauwen/Retrofit-demo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-984950afd43356ffadb04b0c07a29eb07c4a0a92.jar" />
+    </item>
+    <item
+        jar="/Users/simonvergauwen/Retrofit-demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/simonvergauwen/Retrofit-demo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-c0cfe63c942d0a82bd02c39b50ee00953e43039d.jar" />
     </item>
 
 </items>

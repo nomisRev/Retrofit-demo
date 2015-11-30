@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/simonvergauwen/Retrofit-demo/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /Users/simonvergauwen/Retrofit-demo/app/src/main/AndroidManifest.xml:3:5-45
+		ADDED from /Users/simonvergauwen/Retrofit-demo/app/src/main/AndroidManifest.xml:3:5-43
 		INJECTED from /Users/simonvergauwen/Retrofit-demo/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/simonvergauwen/Retrofit-demo/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -29,12 +29,12 @@ MERGED from [com.android.support:support-v4:22.2.1] /Users/simonvergauwen/Retrof
 		ADDED from /Users/simonvergauwen/Retrofit-demo/app/src/main/AndroidManifest.xml:9:9-43
 	android:theme
 		ADDED from /Users/simonvergauwen/Retrofit-demo/app/src/main/AndroidManifest.xml:11:9-40
-activity#vergauwen.simon.appfoundryexam.MainActivity
+activity#vergauwen.simon.retrofitdemo.MainActivity
 ADDED from /Users/simonvergauwen/Retrofit-demo/app/src/main/AndroidManifest.xml:12:9-20:20
 	android:label
 		ADDED from /Users/simonvergauwen/Retrofit-demo/app/src/main/AndroidManifest.xml:14:13-45
 	android:name
-		ADDED from /Users/simonvergauwen/Retrofit-demo/app/src/main/AndroidManifest.xml:13:13-41
+		ADDED from /Users/simonvergauwen/Retrofit-demo/app/src/main/AndroidManifest.xml:13:13-69
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /Users/simonvergauwen/Retrofit-demo/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
