@@ -1,4 +1,4 @@
-package vergauwen.simon.appfoundryexam.model;
+package vergauwen.simon.retrofitdemo.model;
 
 import java.util.ArrayList;
 import java.util.List;

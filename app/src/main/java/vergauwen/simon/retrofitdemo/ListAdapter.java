@@ -1,4 +1,4 @@
-package vergauwen.simon.appfoundryexam;
+package vergauwen.simon.retrofitdemo;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,7 +8,7 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
-import vergauwen.simon.appfoundryexam.model.Datum;
+import vergauwen.simon.retrofitdemo.model.Datum;
 
 /**
  * Created by Simon on 24/09/15.

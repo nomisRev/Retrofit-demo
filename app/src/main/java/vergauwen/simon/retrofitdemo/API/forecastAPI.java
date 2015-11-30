@@ -1,8 +1,8 @@
-package vergauwen.simon.appfoundryexam.API;
+package vergauwen.simon.retrofitdemo.API;
 
 import retrofit.Callback;
 import retrofit.http.GET;
-import vergauwen.simon.appfoundryexam.model.Weather;
+import vergauwen.simon.retrofitdemo.model.Weather;
 
 /**
  * Created by Simon on 24/09/15.

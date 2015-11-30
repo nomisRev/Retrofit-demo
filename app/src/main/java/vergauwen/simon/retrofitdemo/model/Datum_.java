@@ -1,4 +1,4 @@
-package vergauwen.simon.appfoundryexam.model;
+package vergauwen.simon.retrofitdemo.model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

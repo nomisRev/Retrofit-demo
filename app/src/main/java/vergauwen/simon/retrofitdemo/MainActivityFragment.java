@@ -1,4 +1,4 @@
-package vergauwen.simon.appfoundryexam;
+package vergauwen.simon.retrofitdemo;
 
 
 import android.support.v4.app.Fragment;
@@ -13,8 +13,8 @@ import retrofit.Callback;
 import retrofit.RestAdapter;
 import retrofit.RetrofitError;
 import retrofit.client.Response;
-import vergauwen.simon.appfoundryexam.API.forecastAPI;
-import vergauwen.simon.appfoundryexam.model.*;
+import vergauwen.simon.retrofitdemo.API.forecastAPI;
+import vergauwen.simon.retrofitdemo.model.*;
 
 /**
  * A placeholder fragment containing a simple view.

@@ -1,4 +1,4 @@
-package vergauwen.simon.appfoundryexam;
+package vergauwen.simon.retrofitdemo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

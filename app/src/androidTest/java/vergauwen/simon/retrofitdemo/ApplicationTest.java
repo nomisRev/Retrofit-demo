@@ -1,4 +1,4 @@
-package vergauwen.simon.appfoundryexam;
+package vergauwen.simon.retrofitdemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
